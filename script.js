@@ -1,0 +1,1 @@
+console.log("wow_wod! This is from script.js");
